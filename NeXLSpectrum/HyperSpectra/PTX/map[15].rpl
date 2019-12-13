@@ -1,0 +1,9 @@
+key	value
+width	128
+height	128
+depth	2048
+offset	0
+data-length	2
+data-type	UNSIGNED
+byte-order	big-endian
+record-by	vector
