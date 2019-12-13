@@ -1,0 +1,85 @@
+Analysis Starting...
+
+Field 1 of 557:	{X:-14.258,Y:2.645}	Elapse: 0:00:02  ETA: TBD	0.87 nA
+Field 2 of 557:	{X:-14.002,Y:8.277}	Elapse: 0:00:56  ETA: 8:39:35	0.86 nA
+Field 3 of 557:	{X:-11.442,Y:5.461}	Elapse: 0:02:00  ETA: 9:18:29	0.76 nA
+Field 4 of 557:	{X:-11.954,Y:2.645}	Elapse: 0:03:15  ETA: 10:01:05	0.88 nA
+Field 5 of 557:	{X:-12.723,Y:2.901}	Elapse: 0:04:40  ETA: 10:44:57	0.86 nA
+Field 6 of 557:	{X:-10.418,Y:2.901}	Elapse: 0:05:58  ETA: 10:57:56	0.86 nA
+Field 7 of 557:	{X:-11.698,Y:6.229}	Elapse: 0:06:44  ETA: 10:17:36	0.85 nA
+Field 8 of 557:	{X:-10.931,Y:4.949}	Elapse: 0:08:03  ETA: 10:31:53	0.88 nA
+Field 9 of 557:	{X:-11.186,Y:6.229}	Elapse: 0:09:19  ETA: 10:38:23	0.85 nA
+Field 10 of 557:	{X:-13.235,Y:2.389}	Elapse: 0:10:33  ETA: 10:41:53	0.86 nA
+Field 11 of 557:	{X:-8.883,Y:6.997}	Elapse: 0:11:11  ETA: 10:11:27	0.69 nA
+Field 12 of 557:	{X:-9.650,Y:6.229}	Elapse: 0:12:32  ETA: 10:21:18	0.82 nA
+Field 13 of 557:	{X:-14.514,Y:2.133}	Elapse: 0:13:43  ETA: 10:22:10	0.83 nA
+Field 14 of 557:	{X:-11.698,Y:3.669}	Elapse: 0:14:39  ETA: 10:12:02	0.87 nA
+Field 15 of 557:	{X:-10.162,Y:4.693}	Elapse: 0:16:05  ETA: 10:23:01	0.85 nA
+Field 16 of 557:	{X:-10.675,Y:8.021}	Elapse: 0:17:47  ETA: 10:41:35	0.88 nA
+Field 17 of 557:	{X:-10.418,Y:3.669}	Elapse: 0:19:02  ETA: 10:42:34	0.83 nA
+Field 18 of 557:	{X:-9.906,Y:2.901}	Elapse: 0:20:00  ETA: 10:34:14	0.86 nA
+Field 19 of 557:	{X:-9.650,Y:4.949}	Elapse: 0:21:18  ETA: 10:36:49	0.85 nA
+Field 20 of 557:	{X:-11.698,Y:8.277}	Elapse: 0:23:17  ETA: 10:58:13	0.83 nA
+Field 21 of 557:	{X:-10.675,Y:4.437}	Elapse: 0:24:04  ETA: 10:45:14	0.90 nA
+Field 22 of 557:	{X:-13.491,Y:5.461}	Elapse: 0:24:54  ETA: 10:34:37	0.84 nA
+Field 23 of 557:	{X:-8.883,Y:6.741}	Elapse: 0:25:52  ETA: 10:27:59	0.89 nA
+Field 24 of 557:	{X:-8.883,Y:2.645}	Elapse: 0:26:45  ETA: 10:19:56	0.84 nA
+Field 25 of 557:	{X:-11.186,Y:2.389}	Elapse: 0:28:25  ETA: 10:30:05	0.88 nA
+Field 26 of 557:	{X:-9.139,Y:3.669}	Elapse: 0:29:39  ETA: 10:30:01	0.85 nA
+Field 27 of 557:	{X:-10.931,Y:5.717}	Elapse: 0:31:20  ETA: 10:38:44	0.75 nA
+Field 28 of 557:	{X:-10.675,Y:7.509}	Elapse: 0:32:20  ETA: 10:33:40	0.86 nA
+Field 29 of 557:	{X:-12.466,Y:7.253}	Elapse: 0:33:30  ETA: 10:31:42	0.87 nA
+Field 30 of 557:	{X:-9.650,Y:7.509}	Elapse: 0:35:13  ETA: 10:40:13	0.88 nA
+Field 31 of 557:	{X:-10.162,Y:6.229}	Elapse: 0:36:56  ETA: 10:47:36	0.88 nA
+Field 32 of 557:	{X:-10.418,Y:5.461}	Elapse: 0:37:51  ETA: 10:41:17	0.87 nA
+Field 33 of 557:	{X:-11.186,Y:3.669}	Elapse: 0:38:37  ETA: 10:32:31	0.88 nA
+Field 34 of 557:	{X:-12.979,Y:3.925}	Elapse: 0:40:02  ETA: 10:34:41	0.89 nA
+Field 35 of 557:	{X:-9.906,Y:7.253}	Elapse: 0:41:26  ETA: 10:36:09	0.87 nA
+Field 36 of 557:	{X:-12.723,Y:6.485}	Elapse: 0:42:47  ETA: 10:36:55	0.89 nA
+Field 37 of 557:	{X:-14.258,Y:2.133}	Elapse: 0:44:17  ETA: 10:39:51	0.81 nA
+Field 38 of 557:	{X:-13.747,Y:7.765}	Elapse: 0:45:12  ETA: 10:34:02	0.88 nA
+Field 39 of 557:	{X:-14.258,Y:8.533}	Elapse: 0:46:03  ETA: 10:27:44	0.88 nA
+Field 40 of 557:	{X:-11.442,Y:7.765}	Elapse: 0:47:13  ETA: 10:25:58	0.87 nA
+Field 41 of 557:	{X:-11.186,Y:7.253}	Elapse: 0:48:55  ETA: 10:31:11	0.86 nA
+Field 42 of 557:	{X:-10.675,Y:4.949}	Elapse: 0:50:11  ETA: 10:30:23	0.88 nA
+Field 43 of 557:	{X:-11.698,Y:4.949}	Elapse: 0:51:31  ETA: 10:30:33	0.85 nA
+Field 44 of 557:	{X:-8.883,Y:4.949}	Elapse: 0:52:24  ETA: 10:25:16	0.86 nA
+Field 45 of 557:	{X:-11.698,Y:4.181}	Elapse: 0:54:18  ETA: 10:31:59	0.90 nA
+Field 46 of 557:	{X:-11.954,Y:8.277}	Elapse: 0:55:46  ETA: 10:33:22	0.84 nA
+Field 47 of 557:	{X:-10.162,Y:8.277}	Elapse: 0:56:40  ETA: 10:28:17	0.79 nA
+Field 48 of 557:	{X:-9.650,Y:8.277}	Elapse: 0:58:45  ETA: 10:36:15	0.88 nA
+Field 49 of 557:	{X:-12.210,Y:3.157}	Elapse: 1:00:52  ETA: 10:44:20	0.88 nA
+Field 50 of 557:	{X:-10.162,Y:7.509}	Elapse: 1:02:12  ETA: 10:43:39	0.90 nA
+Field 51 of 557:	{X:-12.979,Y:3.413}	Elapse: 1:03:25  ETA: 10:41:54	0.83 nA
+Field 52 of 557:	{X:-9.139,Y:4.693}	Elapse: 1:04:54  ETA: 10:42:44	0.88 nA
+Field 53 of 557:	{X:-12.723,Y:8.021}	Elapse: 1:06:42  ETA: 10:46:35	0.85 nA
+Field 54 of 557:	{X:-10.162,Y:5.461}	Elapse: 1:07:16  ETA: 10:38:33	0.90 nA
+Field 55 of 557:	{X:-11.954,Y:6.229}	Elapse: 1:08:50  ETA: 10:39:57	0.84 nA
+Field 56 of 557:	{X:-14.002,Y:5.205}	Elapse: 1:10:25  ETA: 10:41:26	0.84 nA
+Field 57 of 557:	{X:-9.395,Y:4.693}	Elapse: 1:11:31  ETA: 10:38:35	0.85 nA
+Field 58 of 557:	{X:-14.002,Y:2.133}	Elapse: 1:13:29  ETA: 10:43:18	0.95 nA
+Field 59 of 557:	{X:-12.210,Y:5.205}	Elapse: 1:14:31  ETA: 10:39:53	0.86 nA
+Field 60 of 557:	{X:-10.675,Y:7.253}	Elapse: 1:15:42  ETA: 10:37:44	0.88 nA
+Field 61 of 557:	{X:-13.235,Y:7.509}	Elapse: 1:16:59  ETA: 10:36:23	0.84 nA
+Field 62 of 557:	{X:-8.627,Y:7.509}	Elapse: 1:17:37  ETA: 10:29:54	0.91 nA
+Field 63 of 557:	{X:-13.747,Y:2.133}	Elapse: 1:19:03  ETA: 10:29:51	0.87 nA
+Field 64 of 557:	{X:-10.675,Y:4.693}	Elapse: 1:19:57  ETA: 10:25:43	0.80 nA
+Field 65 of 557:	{X:-9.650,Y:7.253}	Elapse: 1:20:46  ETA: 10:20:54	0.88 nA
+Field 66 of 557:	{X:-12.723,Y:4.949}	Elapse: 1:22:33  ETA: 10:23:37	0.88 nA
+Field 67 of 557:	{X:-8.883,Y:4.181}	Elapse: 1:23:24  ETA: 10:19:16	0.82 nA
+Field 68 of 557:	{X:-14.002,Y:6.485}	Elapse: 1:24:56  ETA: 10:20:00	0.87 nA
+Field 69 of 557:	{X:-11.954,Y:4.949}	Elapse: 1:25:57  ETA: 10:16:55	0.85 nA
+Field 70 of 557:	{X:-11.186,Y:2.645}	Elapse: 1:27:00  ETA: 10:14:08	0.85 nA
+Field 71 of 557:	{X:-12.723,Y:4.181}	Elapse: 1:28:16  ETA: 10:12:55	0.70 nA
+Field 72 of 557:	{X:-11.954,Y:5.461}	Elapse: 1:29:39  ETA: 10:12:25	0.81 nA
+Field 73 of 557:	{X:-12.466,Y:4.693}	Elapse: 1:30:55  ETA: 10:11:13	0.85 nA
+Field 74 of 557:	{X:-10.931,Y:5.205}	Elapse: 1:32:29  ETA: 10:11:57	0.84 nA
+Field 75 of 557:	{X:-9.906,Y:7.509}	Elapse: 1:33:26  ETA: 10:08:38	0.88 nA
+Field 76 of 557:	{X:-13.747,Y:5.973}	Elapse: 1:34:59  ETA: 10:09:10	0.82 nA
+Field 77 of 557:	{X:-11.698,Y:4.437}	Elapse: 1:35:53  ETA: 10:05:39	0.87 nA
+Field 78 of 557:	{X:-9.139,Y:2.389}	Elapse: 1:37:11  ETA: 10:04:37	0.87 nA
+
+Analysis terminated by max-particle count criterion (10000>=10000)
+
+Analysis complete.
+

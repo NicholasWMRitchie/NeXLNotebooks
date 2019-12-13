@@ -1,0 +1,44 @@
+Analysis Summary ================================
+       Project: Castle Dust
+        Sample: CD2 7-30
+      Analysis: Analysis 2018-10-05 11.29.10.-0400
+    Instrument: NIST's TESCAN MIRA3
+      Operator: Ritchie, Ortiz-Montalvo, Vicenzi
+Search and Measure ==============================
+           FOV: 0.256 mm × 0.256 mm FOV
+      Detector: BSED
+          BSED: Contrast 35.10 Brightness: 92.50
+           SED: Contrast 31.80 Brightness: 92.80
+        Search: 128 to 255 at 1024 pixels × 1024 pixels at 1 µs/pixel
+       Measure: 32 to 255 at 4 µs/pixel
+          Step: 8
+    Morphology: Area[0.5 µm²,40000.0 µm²]
+ Max Particles: 10000
+ Max per field: 1000
+      Beam Int: 6.84
+          Spot: 7.48 nm
+       Faraday: 0.96 nA
+        Beam E: 20.00 keV
+            WD: 16.973 mm
+Vacuum ==========================================
+       VP Mode: False
+       Chamber: 0.00046488 torr
+        Column: 1.6176e-05 torr
+           Gun: 6.0845e-10 torr
+Images ==========================================
+         Field: Collect at 1024 pixels × 1024 pixels
+      Particle: Evaluate trueRule at 128 pixels × 128 pixels
+EDS Configuration ==============================
+           EDS: 0.4 s Real time
+          Mode: Point mode EDS
+       Vectors: QuickQuant[Global - 10 eV/ch - FWHM[Mn Kα]=132.0 eV - 2017-04-28 00:00,25.0 keV][38 vectors][17 vectors]
+      Elements: Na, Mg, Al, Si, S, Ca, Ti, Cr, Mn, Fe, Ni, Cu, Zn, Ge, Mo, Ba, Bi
+         Rules: ASPEX-type rule set[default.zrr]
+SI Collection ==================================
+          When: Based on rule evaluation
+    Dimensions: 64
+         Dwell: 10
+Tiling ========================================
+   Description: Randomized[Boundary[[{X:-8.198,Y:8.420,Z:24.993,Rotate:-0.00,Tilt:-0.00}, {X:-14.445,Y:8.734,Z:24.993,Rotate:-0.00,Tilt:-0.00}, {X:-14.687,Y:1.932,Z:24.993,Rotate:-0.00,Tilt:-0.00}, {X:-8.697,Y:2.214,Z:24.993,Rotate:-0.00,Tilt:-0.00}], Underfill],4d8e27e]
+         Tiles: 557 of 0.256 mm × 0.256 mm
+          Area: 39.8007
